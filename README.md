@@ -1,5 +1,5 @@
 ## Digital-SoC-Design
-# Digital ASIC Design
+ Digital ASIC Design
 
 ![image](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/bf20d9f7-0c33-447f-93c4-48d780fd91a4)
 
