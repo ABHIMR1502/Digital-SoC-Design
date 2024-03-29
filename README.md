@@ -32,6 +32,10 @@
 
 
 # Exploring OpenLANE Directory 
+
+->Working on sky130A(pdk) which contains libs.tech which has tools such as magic, netgen etc., and libs.ref which has files related to the specific 
+  technology
+  
 ![Screenshot from 2024-03-28 15-50-10](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/27b7f093-f17b-4fc9-953c-6a5e3be6de1c)
 
 ![Screenshot from 2024-03-28 15-57-59](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/5ea82939-c422-423f-827d-21d5b841a191)
