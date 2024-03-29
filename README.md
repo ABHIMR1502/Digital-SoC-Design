@@ -33,7 +33,7 @@
 
 # Exploring OpenLANE Directory 
 
-->Working on sky130A(pdk) which contains libs.tech which has tools such as magic, netgen etc., and libs.ref which has files related to the specific 
+->Working on sky130A(pdk) which contains libs.tech which has respective files on tools such as magic, netgen etc., and libs.ref which has files related to the specific 
   technology
   
 ![Screenshot from 2024-03-28 15-50-10](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/27b7f093-f17b-4fc9-953c-6a5e3be6de1c)
@@ -76,5 +76,7 @@
 ->Chip area for the module = 147712.9184
 
 -> Synthesis and Stat reports are below
+
    [Click here to view 1-yosys_4.stat.rpt](https://github.com/ABHIMR1502/Digital-SoC-Design/blob/main/DAY1/1-yosys_4.stat.rpt)
+   
    [Click here to view picorv32a.synthesis.v](https://github.com/ABHIMR1502/Digital-SoC-Design/blob/main/DAY1/picorv32a.synthesis.v)
