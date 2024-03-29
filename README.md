@@ -28,3 +28,44 @@
 
  -> OpenLANE ASIC Flow
 ![image](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/19f4b185-4152-44ab-b992-02a731bbe687)
+
+
+# Exploring OpenLANE Directory 
+![Screenshot from 2024-03-28 15-50-10](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/27b7f093-f17b-4fc9-953c-6a5e3be6de1c)
+
+![Screenshot from 2024-03-28 15-57-59](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/5ea82939-c422-423f-827d-21d5b841a191)
+
+# Running docker command
+
+->commands used
+   * ./flow.tcl -interactive
+   * package required openlane 0.9
+![Screenshot from 2024-03-28 16-11-46](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/e8dc3af2-2f64-4fc6-ba19-3afef91ea990)
+
+# Design setup stage and synthesis for picorv32a
+
+->commands used
+
+   * prep -design picorv32a
+   * run_synthesis
+
+![Screenshot from 2024-03-28 16-21-37](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/e25bbf9f-5830-4d98-a669-fb2883a28669)
+
+![Screenshot from 2024-03-28 19-04-05](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/90e02a19-ad17-4063-943d-3081743cf160)
+# Report generated after synthesis
+
+![Screenshot from 2024-03-28 19-23-30](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/3404756b-c8f9-4204-97ce-77a6c5dc0861)
+
+->To calculate Flop Ratio
+
+     Flop Ratio = No. of D FlipfLops/Total No. of cells
+
+                 =1613/14876
+
+                 =0.10842
+
+      Percentage of D FF's = 10.842
+
+![Screenshot from 2024-03-28 19-24-09](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/86430ad5-092f-499d-b5f8-53d6aad2c045)
+
+->Chip area for the module = 147712.9184
