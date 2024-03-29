@@ -59,7 +59,9 @@
 ![Screenshot from 2024-03-28 19-04-05](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/90e02a19-ad17-4063-943d-3081743cf160)
 # Report generated after synthesis
 
-![Screenshot from 2024-03-28 19-23-30](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/3404756b-c8f9-4204-97ce-77a6c5dc0861)
+![Screenshot from 2024-03-29 09-53-01](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/41829e1f-2cbc-4763-9ff8-eb4b8c68f678)
+
+![Screenshot from 2024-03-29 09-53-27](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/918b6e2b-a186-41fb-b1ee-7dba997e9b3d)
 
 ->To calculate Flop Ratio
 
