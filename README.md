@@ -74,3 +74,7 @@
 ![Screenshot from 2024-03-28 19-24-09](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/86430ad5-092f-499d-b5f8-53d6aad2c045)
 
 ->Chip area for the module = 147712.9184
+
+-> Synthesis and Stat reports are below
+   [Click here to view 1-yosys_4.stat.rpt](https://github.com/ABHIMR1502/Digital-SoC-Design/blob/main/DAY1/1-yosys_4.stat.rpt)
+   [Click here to view picorv32a.synthesis.v](https://github.com/ABHIMR1502/Digital-SoC-Design/blob/main/DAY1/picorv32a.synthesis.v)
