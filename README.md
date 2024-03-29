@@ -69,7 +69,7 @@
 
                  =0.10842
 
-      Percentage of D FF's = 10.842
+      Percentage of D FF's = 10.842%
 
 ![Screenshot from 2024-03-28 19-24-09](https://github.com/ABHIMR1502/Digital-SoC-Design/assets/79500348/86430ad5-092f-499d-b5f8-53d6aad2c045)
 
